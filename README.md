@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harishwa2003" alt="harishwa2003" /></a> </p>
 
-- 🌱 I’m currently learning **reactJS,c++.**
+- 🌱 I’m currently learning **reactJS, C.**
 
 - 🤝 I’m looking for help with **to learning react.**
 
 - 📫 How to reach me **harishwadreddy@gmail.com**
 
-- ⚡ Fun fact **I love doing complex things cure my boredom**
+- ⚡ Fun fact **I love doing complex things to cure my boredom**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

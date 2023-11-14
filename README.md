@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm HARISHWA D REDDY</h1>
-<h3 align="center">I'm a 1st year undergraduate student in Computer Science with an interest in Web Development, Problem Solving, Cyber Security. Currently, I am working on Frontend Web Development, soaking up as much knowledge and practice as I can in an attempt to perfect my craft, along with sharpening my Cyber Security knowledge. I have experience in HTML, CSS, Python, Linux.</h3>
+<h3 align="center">I'm a 3rd year undergraduate student in Computer Science with an interest in Web Development, Problem Solving, Cyber Security. Currently, I am working on Frontend Web Development, soaking up as much knowledge and practice as I can in an attempt to perfect my craft, along with sharpening my Cyber Security knowledge. I have experience in HTML, CSS, Python, Linux.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harishwa2003&label=Profile%20views&color=0e75b6&style=flat" alt="harishwa2003" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harishwa2003" alt="harishwa2003" /></a> </p>
-
-- 🌱 I’m currently learning **reactJS, C.**
-
-- 🤝 I’m looking for help with **to learning react.**
 
 - 📫 How to reach me **harishwadreddy@gmail.com**
 

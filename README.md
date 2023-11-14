@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm HARISHWA D REDDY</h1>
-<h3 align="center">I'm a 3rd year undergraduate student in Computer Science with an interest in Web Development, Problem Solving, Cyber Security. Currently, I am working on Frontend Web Development, soaking up as much knowledge and practice as I can in an attempt to perfect my craft, along with sharpening my Cyber Security knowledge. I have experience in HTML, CSS, Python, Linux.</h3>
+<h3 align="center">An aspiring AIML (Artificial Intelligence and Machine Learning) student with a passion for full stack
+development. My enthusiasm for data analysis and proficiency in programming, databases, and web technologies
+make me a valuable asset for innovative projects. I excel in deriving insights from complex datasets and crafting
+comprehensive web applications. As a strong team player with effective communication skills, I am eager to
+contribute to data-driven decision-making. I am currently seeking opportunities to enhance my skills and
+collaborate on impactful ventures in both the data analysis and full stack development realms.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harishwa2003&label=Profile%20views&color=0e75b6&style=flat" alt="harishwa2003" /> </p>
 

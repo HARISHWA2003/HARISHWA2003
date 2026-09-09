@@ -1,31 +1,23 @@
-<h1 align="center">Hi 👋, I'm HARISHWA D REDDY</h1>
-<h3 align="center">An aspiring AIML (Artificial Intelligence and Machine Learning) student with a passion for full stack
-development. My enthusiasm for data analysis and proficiency in programming, databases, and web technologies
-make me a valuable asset for innovative projects. I excel in deriving insights from complex datasets and crafting
-comprehensive web applications. As a strong team player with effective communication skills, I am eager to
-contribute to data-driven decision-making. I am currently seeking opportunities to enhance my skills and
-collaborate on impactful ventures in both the data analysis and full stack development realms.</h3>
+## Harishwa D Reddy
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harishwa2003&label=Profile%20views&color=0e75b6&style=flat" alt="harishwa2003" /> </p>
+Software engineer at [Flock Energy](https://flockenergy.in). I build whole products, not pieces of
+them — the database, the service on top of it, and the app people actually open. Most of what I
+have shipped in the last year is running in production today.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harishwa2003" alt="harishwa2003" /></a> </p>
+Right now that means Aura, our smart home product: the phone app end to end, plus work across the
+cloud service, the web app, and the firmware on two custom boards (Rust on nRF52840, C on ESP32).
 
-- 📫 How to reach me **harishwadreddy@gmail.com**
+**Working with:** TypeScript · Python · Rust · C · SQL · Postgres · Next.js · React Native ·
+Cloudflare · Docker · AWS · BLE / MQTT
 
-- ⚡ Fun fact **I love doing complex things to cure my boredom**
+### Selected work
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/harishwa2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harishwa2" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/harishwa-d-reddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harishwa-d-reddy" height="30" width="40" /></a>
-<a href="https://instagram.com/harishwa_d_reddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harishwa_d_reddy" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/harishwadreddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harishwadreddy" height="30" width="40" /></a>
-<a href="https://discord.gg/HARISHWA#5858" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="HARISHWA#5858" height="30" width="40" /></a>
-</p>
+| | |
+|---|---|
+| **[ScoutChem](https://scoutchem.com)** | Chemical sourcing that runs itself — a buyer describes what they need in plain words, the system identifies the compound, finds suppliers, emails them, follows the reply threads and returns ranked quotes. One worker and a database. |
+| **Acadex** | ID card software for schools and organisations. Upload a spreadsheet, lay the card out once by dragging fields, print the whole batch from that template. |
+| **[safe-yolo](https://github.com/HARISHWA2003/safe-yolo)** | A Claude Code plugin. With permission prompts off, it still asks before anything installs software, runs downloaded code, deletes a directory, or uses sudo. Under 100 lines, no dependencies. |
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+### Elsewhere
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harishwa2003&show_icons=true&locale=en&layout=compact" alt="harishwa2003" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harishwa2003&show_icons=true&locale=en" alt="harishwa2003" /></p>
+[harishwa.com](https://harishwa.com) · [LinkedIn](https://linkedin.com/in/harishwa-d-reddy) · harishwadreddy@gmail.com
